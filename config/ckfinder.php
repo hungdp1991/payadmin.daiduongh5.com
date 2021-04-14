@@ -27,8 +27,8 @@ $config['authentication'] = 'ckFinderMiddleware';
 /*============================ License Key ============================================*/
 // http://docs.cksource.com/ckfinder3-php/configuration.html#configuration_options_licenseKey
 
-$config['licenseName'] = 'admin.pay.phoeniz.mobi.test';
-$config['licenseKey']  = 'PWDWK2LN9G36KA4YSGT96XW8JF7MV';
+$config['licenseName'] = 'payadmin.daiduongh5.com.test';
+$config['licenseKey']  = 'J1N1LA1VEA46WF3GT27AQ6LHWXMCD';
 
 /*============================ CKFinder Internal Directory ============================*/
 // http://docs.cksource.com/ckfinder3-php/configuration.html#configuration_options_privateDir
